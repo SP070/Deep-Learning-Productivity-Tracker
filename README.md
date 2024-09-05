@@ -54,7 +54,7 @@ The script will access your webcam, start tracking productivity, and save a vide
 5. **Visualization**: A live chart shows productivity trends over time, and face bounding boxes are color-coded (green for focused, red for distracted).
 6. **Recording**: The entire session, including all visualizations, is recorded for later review.
 
-7. ![Screenshot 2024-09-05 at 3 20 34 PM](https://github.com/user-attachments/assets/18210600-45a7-4c5d-9702-7254fa5a768d)
+ ![Screenshot 2024-09-05 at 3 20 34 PM](https://github.com/user-attachments/assets/18210600-45a7-4c5d-9702-7254fa5a768d)
 
 
 ## Results
@@ -64,7 +64,6 @@ In our testing, the Productivity Tracker successfully:
 - Estimated gaze direction with reasonable accuracy
 - Provided real-time productivity scores
 - Generated clear, informative video recordings of tracking sessions
-![Screenshot 2024-09-05 at 3 20 34 PM](https://github.com/user-attachments/assets/eaee7114-0148-4649-907a-6dee13697a83)
 
 The system demonstrated robust performance in both single-user and multi-person scenarios, making it suitable for various work environments.
 
